@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 2738,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "from flask import Flask"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/javiergb/pCloud Drive/projects/2020_flask_text/runtime.txt",
+		"/Users/javiergb/pCloud Drive/projects/2020_flask_text/requirements.txt",
+		"/Users/javiergb/Tax Justice Network Ltd/TJN - Shared Documents/Data/Code/data_processing.py",
+		"/Users/javiergb/Tax Justice Network Ltd/TJN - Shared Documents/Data/Code/other_functions.py",
+		"/Users/javiergb/pCloud Drive/JGB_consulting/Projects/2020_SEO/Code/data_final/df_trust_addresses.tsv",
+		"/private/var/folders/k9/p0qdssp55_50n6vcq27hmhf00000gn/T/com.microsoft.Outlook/Outlook Temp/Nachrichtenteil als Anhang[1]",
+		"/private/var/folders/k9/p0qdssp55_50n6vcq27hmhf00000gn/T/com.microsoft.Outlook/Outlook Temp/Nachrichtenteil als Anhang",
+		"/Users/javiergb/Downloads/summary.txt",
+		"/Users/javiergb/Dropbox/Apps/Overleaf/PhD - Dissertation/figures/data_quality/conert.bash",
+		"/Users/javiergb/.Trash/Export 18_03_2020 19_49.txt",
+		"/Users/javiergb/query.sql",
+		"/Users/javiergb/Programs/mount_pi.sh",
+		"/Users/javiergb/Downloads/issproxy.py",
+		"/Users/javiergb/.ssh/config",
+		"/Users/javiergb/Downloads/.ssh/config",
+		"/Users/javiergb/pCloud Drive/JGB_consulting/Projects/2020_OECD_network/imp_ideas.txt",
+		"/Users/javiergb/pCloud Drive/Raspberry/connectinternet.txt",
+		"/Users/javiergb/Tax Justice Network Ltd/TJN - Shared Documents/Data/Code/CBCR/Export 18_03_2020 19_49.txt",
+		"/private/var/folders/k9/p0qdssp55_50n6vcq27hmhf00000gn/T/fz3temp-2/dbr_Jurisdiction_current.php",
+		"/private/var/folders/k9/p0qdssp55_50n6vcq27hmhf00000gn/T/fz3temp-2/dbr_Jurisdiction.php",
+		"/Users/javiergb/pCloud Drive/JGB_consulting/Projects/2019_ICTD/Project/data/data_complete_no_US.tsv",
+		"/Users/javiergb/Downloads/textbook.txt",
+		"/private/var/folders/k9/p0qdssp55_50n6vcq27hmhf00000gn/T/fz3temp-2/.htaccess",
+		"/Users/javiergb/serverFTP/FSI/FSI_2020/.htaccess",
+		"/private/var/folders/k9/p0qdssp55_50n6vcq27hmhf00000gn/T/fz3temp-2/error_log",
+		"/private/var/folders/k9/p0qdssp55_50n6vcq27hmhf00000gn/T/fz3temp-2/access_log",
+		"/Users/javiergb/serverFTP/FSI/FSI_2020/configuration.php",
+		"/Users/javiergb/test.html",
+		"/Users/javiergb/access_log",
+		"/Users/javiergb/KI.php",
+		"/Users/javiergb/Downloads/untitled.svg",
+		"/Users/javiergb/serverFTP/FSI/FSI_2020/PDF/.htaccess",
+		"/Users/javiergb/serverFTP/FSI/FSI_2020/auth/.htaccess",
+		"/Users/javiergb/serverFTP/FSI/FSI_2020/auth/.ht",
+		"/Users/javiergb/serverFTP/FSI/FSI_2020/EXCEL_by_Juris/.htaccess",
+		"/Users/javiergb/serverFTP/FSI/FSI_2020/EXCEL_by_InfoID/.htaccess",
+		"/Users/javiergb/Downloads/sample.tsv",
+		"/Users/javiergb/Downloads/network_maxorder_1.csv",
+		"/Users/javiergb/Downloads/network_maxorder_2.csv",
+		"/Users/javiergb/pCloud Drive/Tutorials/dataviz/titanic.csv",
+		"/Users/javiergb/Tax Justice Network Ltd/TJN - Shared Documents/Data/Source data/017 UN/20200502_UNSD — Methodology.csv",
+		"/opt/anaconda3/lib/python3.7/site-packages/seaborn/regression.py",
+		"/Users/javiergb/Dropbox/Natixio/Projects/Summer_school/Meeting_Notes/notes.txt",
+		"/Users/javiergb/Dropbox/Natixio/Projects/Summer_school/Course_Materials/course_python_javier.txt",
+		"/Users/javiergb/.zshrc",
+		"/Users/javiergb/Tax Justice Network Ltd/TJN - Shared Documents/Data/Code/Figures-FSI/figures_kfsi.ipynb",
+		"/Users/javiergb/Downloads/My Collection.bib",
+		"/Users/javiergb/Documents/test.bib",
+		"/Users/javiergb/Dropbox/AA_thesis/test.tex",
+		"/Users/javiergb/Dropbox/AA_thesis/untitled",
+		"/Users/javiergb/Dropbox/accounting_paper/00_Final_paper/FinalFigures/2_Main_Text/convert_eps.sh",
+		"/Users/javiergb/Dropbox/AA_thesis/3c - Now you see me (professionals)/convert_eps.sh",
+		"/Users/javiergb/Dropbox/projects/TNC_paper/figures/svgs/convert_eps.sh",
+		"/Users/javiergb/Dropbox/AA_thesis/1a  - The great fragmentation of the firm/test.tex",
+		"/Users/javiergb/Dropbox/AA_thesis/1a  - The great fragmentation of the firm/Kopie van TNC_own_Profundo/test.tex",
+		"/Users/javiergb/Dropbox/AA_thesis/1b - Incentives to become multinational/test.tex",
+		"/Users/javiergb/.bash_profile"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			"^([a-z]{2}).*$",
+			"^([a-z]{2})\\s.*",
+			"^\\s+",
+			"\\s*[a-z]*\\s*(\\d+)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\", \"",
+			"$1",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from flask import Flask",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "compare_text.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
